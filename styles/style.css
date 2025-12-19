@@ -3,7 +3,7 @@
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
-  padding: 92px 50px 96px;
+  padding: 84px 50px 92px;
   font-size: 18px;
 }
 
@@ -211,7 +211,6 @@
 }
 
 .card__text {
-  font: raleway;
   font-weight: 400;
   font-style: normal;
   position: relative;
